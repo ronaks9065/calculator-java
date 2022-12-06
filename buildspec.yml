@@ -1,1 +1,12 @@
+version: 0.2
 
+phases:
+  install:
+    commands:
+      - java --version
+  build:
+    commands:
+      - echo Build Done
+artifacts:
+  files:
+    - '**/*'
