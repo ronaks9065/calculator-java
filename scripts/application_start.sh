@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/ubuntu/NodeApp/
-sudo touch hello
+cd /home/ubuntu/JavaApp/
+
