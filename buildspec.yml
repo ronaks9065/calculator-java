@@ -4,6 +4,7 @@ phases:
   install:
     commands:
       - java --version
+      - mvn --version
   build:
     commands:
       - echo Build Done
